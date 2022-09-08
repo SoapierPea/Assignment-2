@@ -1,0 +1,131 @@
+
+nav{
+    background-color: black;
+}
+
+.nav-container{
+margin: 0 0 0 0;
+padding: 5px 10px 40px 10px;
+width: 100%;
+
+}
+
+#title{
+    padding: 0 500px 0 0;
+    font-size: 20px;
+}
+.nav-links{
+    display: flex;
+    
+}
+
+.nav-link{
+    color: white;
+    padding: 0 85px 0 25px;
+}
+.Featured-Shows > h4{
+    color: white;
+    font-size:90px;
+    font-weight: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Featured-Shows >img{
+    width: 101.35%
+
+}
+.hero >h4{
+    padding: 5px 0 5px 0;
+    margin: 80px 0 0 150px;
+    width: 80%;
+    font-weight: 1;
+    border: 1px solid;
+    border-color: rgb(172, 169, 169);
+    background-color: rgb(239, 238, 238);
+  
+
+}
+
+.hero-section{
+    display: flex;
+   
+}
+
+.hero-section >img{
+    margin: 30px 0 0 155px;
+
+}
+
+.hero-text{
+    margin: 5px 0 0 50px;
+}
+
+.hero-text >h2{
+    font-weight: 1;
+    
+}
+
+.hero-text >h4{
+margin: 30px 0 30px 0;
+}
+
+.hero-text >p{
+    margin: 0 0 30px 0
+
+
+}
+
+.butt > button{
+    color: white;
+    background-color: rgba(255, 200, 0, 0.988);
+    padding: 20px 40px 20px 40px;
+    font-size: 30px;
+    margin: 100px 0 0 400px;
+}
+
+.foot-list{
+    display: flex;
+    color: white;
+    background-color: black;
+    padding: 0 0 130px 0;
+}
+
+.Info{
+    padding: 20px 80px 10px 500px;
+    
+}
+
+.info >h1{
+    
+}
+.Info >ul{
+    list-style-type: none;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.Shows{
+    padding: 20px 80px 10px 80px;
+    
+}
+.Shows >ul{
+    list-style-type: none;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.Social{
+    padding: 20px 80px 10px 80px;
+}
+
+.Social >ul{
+    list-style-type: none;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+li{
+    padding: 20px 0 20px 0;
+    margin: 0 0 0 0;
+}
